@@ -1,0 +1,12 @@
+name: eye-tracking
+channels:
+  - defaults
+dependencies:
+  - bottleneck=1.3.2
+  - matplotlib=3.5.1
+  - numpy=1.21.2
+  - notebook=6.4.8
+  - pandas=1.4.1
+  - python=3.10.0
+
+prefix: /home/kir-sth/dev-dir/miniconda3/envs/eye-tracking
